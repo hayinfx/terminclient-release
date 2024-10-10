@@ -19,6 +19,9 @@ An implementation of Proot for Android with AlpineOS, built in Terminal, built i
 ![SSHD Server Terminal](https://raw.githubusercontent.com/hayinfx/terminclient-release/refs/heads/main/img/Screenshot_2024-10-09-09-47-44-749_com.hayinfx.terminclient.jpg "SSHD Server Terminal")
 **SSHD Server Terminal**: Terminal view of the SSHD server running inside the app.
 
+![Terminal Server SSHD Ntoticitaion Panel](https://raw.githubusercontent.com/hayinfx/terminclient-release/refs/heads/main/img/Screenshot_2024-10-10-08-06-02-652_com.hayinfx.terminclient.debug.jpg "Terminal Server SSHD Ntoticitaion Panel")
+***Terminal Server SSHD Ntoticitaion Panel***: Terminal Server SSHD Ntoticitaion Panel.
+
 ![SSHD Client Terminal](https://raw.githubusercontent.com/hayinfx/terminclient-release/refs/heads/main/img/Screenshot_2024-10-09-09-48-18-241_com.hayinfx.terminclient.jpg "SSHD Client Terminal")
 **SSHD Client Terminal**: SSHD client connected to the server, displaying real-time terminal output.
 
