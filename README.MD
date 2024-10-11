@@ -1,11 +1,12 @@
 ## TERMIN CLIENT
 
-## TerminClient v0.0.1 Beta rev 1 Debug APK
+## TerminClient v0.0.1 Beta rev 1 Release APK
 
 Lightweight Linux Terminal Server and Client for Android
  
-An implementation of Proot for Android with AlpineOS, built in Terminal, built in Remote Client SSH, Built in Remote Server SSHD, Built in File Manager with Android Storage Acess Network (SAF) suported, built in Text Editor with only about 5MB apks!
+An implementation of Proot for Android with AlpineOS, built in Terminal, built in Remote Client SSH, Built in Remote Server SSHD, Built in File Manager with Android Storage Acess Framework (SAF) suported, built in Text Editor with only about 5MB apks!
 
+Download APK v0.0.1-beta-rev1 : [https://github.com/hayinfx/terminclient-release/raw/refs/heads/main/app-google-release.apk](https://github.com/hayinfx/terminclient-release/raw/refs/heads/main/app-google-release.apk)
 
 ![Home](https://raw.githubusercontent.com/hayinfx/terminclient-release/refs/heads/main/img/Screenshot_2024-10-09-09-44-19-309_com.hayinfx.terminclient.jpg "Home")
 **Home Screen**: This is the main home screen of the app, providing quick access to its features.
